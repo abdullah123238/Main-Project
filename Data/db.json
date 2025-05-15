@@ -1,0 +1,288 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Basics To Advanced In React",
+      "overview": " This book covers components, state management, hooks, routing, and advanced patterns.",
+      "long_description": "A comprehensive guide taking readers from React fundamentals to building complex applications. This book covers components, state management, hooks, routing, and advanced patterns. Perfect for beginners and intermediate developers looking to master React's ecosystem, it features practical examples and real-world projects that reinforce concepts while building a professional portfolio.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Django Framework for Beginners",
+      "overview": "This guide walks newcomers through Django's MTV architecture, building data models, creating views, implementing authentication, and deploying applications.",
+      "long_description": "An accessible introduction to Python's powerful web framework. This guide walks newcomers through Django's MTV architecture, building data models, creating views, implementing authentication, and deploying applications. With step-by-step tutorials and complete project examples, readers will quickly gain confidence in building robust web applications with Django's powerful toolkit.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "The Future of Design Systems",
+      "overview": " The book examines component-based design, cross-platform consistency, automation, and governance strategies. ",
+      "long_description": "A forward-looking exploration of how design systems are evolving to meet the demands of modern digital products. The book examines component-based design, cross-platform consistency, automation, and governance strategies. Covering both theoretical principles and practical implementation, it serves as a roadmap for designers and developers creating scalable, accessible design systems.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "This guide explores multiple languages and frameworks while teaching universal concepts like security, performance optimization, and architecture patterns.",
+      "long_description": "A thorough examination of server-side programming covering databases, APIs, authentication, and deployment. This guide explores multiple languages and frameworks while teaching universal concepts like security, performance optimization, and architecture patterns. Practical examples demonstrate how to build resilient, scalable backend systems that power modern applications.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Build a Blockchain from Scratch in Go",
+      "overview": "The book balances technical depth with practical application, making complex blockchain principles accessible through clear explanations and executable code.",
+      "long_description": "A project-based tutorial demonstrating blockchain fundamentals through hands-on implementation in Go. Readers learn core concepts—distributed ledgers, consensus algorithms, cryptographic principles—while building a functioning blockchain. The book balances technical depth with practical application, making complex blockchain principles accessible through clear explanations and executable code",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "This guide covers HTML, CSS, JavaScript, frameworks, and modern development workflows through hands-on building.",
+      "long_description": "An accelerated learning path for aspiring frontend developers featuring structured projects of increasing complexity. This guide covers HTML, CSS, JavaScript, frameworks, and modern development workflows through hands-on building. Each project reinforces key concepts while contributing to a professional portfolio that demonstrates real-world skills to potential employers.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Master the Code Review",
+      "overview": "This book covers review techniques, communication strategies, automation tools, and establishing productive feedback cultures. ",
+      "long_description": "A practical guide to effective code review practices that improve code quality and team collaboration. This book covers review techniques, communication strategies, automation tools, and establishing productive feedback cultures. Aimed at both reviewers and contributors, it provides actionable advice for turning code reviews into valuable learning opportunities rather than bottlenecks",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shubham",
+      "overview": "The book emphasizes deep understanding of JavaScript's mechanics while building practical applications that showcase professional techniques..",
+      "long_description": "A comprehensive JavaScript guide progressing from fundamental syntax to advanced patterns and frameworks. With Shubham's approachable teaching style, readers learn core concepts, DOM manipulation, asynchronous programming, and modern ES6+ features through practical examples. The book emphasizes deep understanding of JavaScript's mechanics while building practical applications that showcase professional techniques.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "Python Deep Dive With Projects",
+      "overview": "This book examines advanced topics like decorators, generators, metaclasses, and concurrency while building real-world applications..",
+      "long_description": "An extensive exploration of Python's powerful features through project-based learning. Moving beyond basics, this book examines advanced topics like decorators, generators, metaclasses, and concurrency while building real-world applications. Each project demonstrates Python's versatility across domains including data analysis, web development, automation, and machine learning.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "Mastering Software Technique",
+      "overview": "This guide explores problem-solving approaches, debugging strategies, code organization, and technical communication. ",
+      "long_description": "A thoughtful examination of the craft aspects of software development that transcend specific languages or frameworks. This guide explores problem-solving approaches, debugging strategies, code organization, and technical communication. Focusing on the (how) rather than just the (what), it helps developers cultivate the habits and techniques that distinguish exceptional software engineers.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "Web Development Foundation",
+      "overview": "This book covers HTML, CSS, and JavaScript fundamentals, responsive design, accessibility, and basic interactivity.",
+      "long_description": "An introductory guide establishing core principles of modern web development. This book covers HTML, CSS, and JavaScript fundamentals, responsive design, accessibility, and basic interactivity. Through structured exercises and mini-projects, beginners build a solid understanding of web technologies while creating standard components like navigation menus, forms, and dynamic content displays.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10012,
+      "name": "Mastering Git and GitHub - A Practical Guide",
+      "overview": "Rather than isolated snippets, the book presents complete, working implementations that demonstrate how individual concepts fit into cohesive applications. .",
+      "long_description": "As the content advances, readers are guided through sophisticated state management approaches, learning when to use Context API versus external libraries like Redux. The book covers routing comprehensively with React Router, authentication patterns, and strategies for integrating with APIs and backend services. Modern React development practices feature prominently, including Concurrent Mode, Server Components, and the latest React features that are reshaping the development landscape.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "Everything About React v16",
+      "overview": "This book provides a comprehensive guide to React, covering the core concepts and advanced features, including React Fiber and other updates in v16.",
+      "long_description": "A fast-paced, hands-on guide to designing and building scalable and maintainable web apps with React.This resource demystifies every React update since v16, including the latest features like hooks and other changes introduced in React 16. ",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "Diving Deep With Python 2.7",
+      "overview": "This book represents our attempt to make deep learning approachable, teaching you the concepts, the context, and the code.",
+      "long_description": "Deep Learning with Python has taught thousands of readers how to put the full capabilities of deep learning into action. This extensively revised full color second edition introduces deep learning using Python and Keras, and is loaded with insights for both novice and experienced ML practitioners. You’ll learn practical techniques that are easy to apply in the real world, and important theory for perfecting neural networks.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Kickstart Your UI Design Career",
+      "overview": "Kickstart Your UI Design Career is a comprehensive resource divided into seven core sections, each targeting a critical aspect of UI design career development.",
+      "long_description": "This e-book serves as an essential companion for aspiring UI designers looking to break into the industry and establish themselves as professionals. From foundational principles to advanced techniques, this guide provides a structured path to becoming a successful UI designer in today's competitive digital landscape.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "This comprehensive e-book serves as both an instructional manual and a reference guide, providing readers with a deep understanding of backend development principles, patterns, and practices..",
+      "long_description": "The Complete Guide to Backend Development: From Fundamentals to Production is an extensive, authoritative resource designed for developers at all skill levels who want to master the art and science of backend development. This definitive guide spans over 800 pages of carefully structured content that takes readers from core concepts to advanced implementation strategies used by industry leaders.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "This e-book stands apart from traditional programming guides by employing a unique (learning by building) approach.",
+      "long_description": "Frontend Fastlane Plan With Projects is a meticulously crafted, project-driven guide designed to transform beginners into confident frontend developers through structured learning and hands-on application. This comprehensive e-book spans over 600 pages, providing a strategic roadmap that combines theoretical foundations with practical implementation across 15 carefully designed projects of increasing complexity.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shubham",
+      "overview": "The book follows a carefully designed learning path that gradually builds complexity while constantly reinforcing previous concepts.",
+      "long_description": "(JavaScript Basics To Advance With Shubham) is an expertly crafted, comprehensive guide that transforms complete beginners into proficient JavaScript developers through a unique blend of structured learning, real-world applications, and mentorship-style guidance. This extensive e-book, spanning over 700 pages across 12 meticulously organized sections, captures Shubham's acclaimed teaching methodology that has helped thousands of developers worldwide master JavaScript from the ground up.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "Basics To Advanced In React",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": 10008,
+          "name": "JavaScript Basics To Advance With Shubham",
+          "overview": "Unlike traditional programming books that often focus on either theory or practice in isolation, this guide employs a three-dimensional learning approach: Learn → Apply → Understand Deeply.",
+          "long_description": "The book follows a carefully designed learning path that gradually builds complexity while constantly reinforcing previous concepts. Beginners will appreciate the gentle on-ramp to JavaScript fundamentals, while experienced developers will discover new insights in Shubham's unique explanations of JavaScript's more confusing features like prototypal inheritance, closures, and asynchronous patterns.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10008.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 58,
+      "quantity": 2,
+      "user": {
+        "name": "Shubham Sarda",
+        "email": "shubham@example.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "shubham@example.com",
+      "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
+      "name": "Shubham Sarda",
+      "id": 1
+    }
+  ]
+}
