@@ -1,6 +1,7 @@
-import React from 'react'
+
 import {AllRoutes} from './Routes/AllRoutes'
-import { Footer, Header } from './components'
+import { Footer, Header } from './Components'
+
 
 
 const App = () => {
