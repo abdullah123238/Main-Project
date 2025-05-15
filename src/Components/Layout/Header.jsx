@@ -7,8 +7,8 @@ import { CiSearch } from "react-icons/ci";
 import { PiGearFineFill } from "react-icons/pi";
 import { IoCartOutline } from "react-icons/io5";
 import { IoPersonCircleOutline } from "react-icons/io5";
-import { DropdownLoggedIn } from "../Elements/DropDownLoggedIn";
 import { DropdownLoggedOut } from "../Elements/DropdownLoggedOut";
+import { DropdownLoggedIn } from "../Elements/DropdownLoggedIn";
 
 
 
